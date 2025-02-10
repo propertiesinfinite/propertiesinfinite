@@ -1,0 +1,2 @@
+[02-May-2023 05:48:52 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.2.34. in /home/pasheachi/public_html/demo/vendor/composer/platform_check.php on line 24
+[02-May-2023 05:50:14 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.2". You are running 7.2.34. in /home/pasheachi/public_html/demo/vendor/composer/platform_check.php on line 24
