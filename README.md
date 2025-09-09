@@ -15,8 +15,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Private key: C:\Users\HP\.ssh\id_work ✅
-
-Public key: C:\Users\HP\.ssh\id_work.pub ✅
-
-Fingerprint: SHA256:QzDDsSIZOIR+IHOHuX9iB2niJijzhKKZX4BKLm6Idcw
